@@ -1,0 +1,14 @@
+Customer ref : 6048246
+Number of Fried Rice : 1
+Number of Noodles : 0
+Number of Kottu : 0
+Number of Pizza : 2
+Number of Burgers : 0
+Number of Specialdishes : 0
+Number of Soups : 0
+Number of Freshjuices : 0
+Paid Tax : ('Rs', '187.50')
+Sub total : ('Rs', '3750.00')
+Total Cost : ('Rs', '3937.50')
+
+
